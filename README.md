@@ -30,8 +30,9 @@ Our app provides a dedicated learning space that mimics the familiar classroom e
 
 
 ## Screenshots:
-![photo_2_2024-10-03_18-43-24](https://github.com/user-attachments/assets/e1d3206a-0f59-4425-bcb3-c447d780f7b7)
-![photo_1_2024-10-03_18-43-24](https://github.com/user-attachments/assets/19b95172-fbfb-4252-8ce0-13b1e46d3473)
+![photo_2_2024-10-03_18-43-24](https://github.com/user-attachments/assets/6ce2daaf-88aa-426a-a6fe-1fee0314a053)
+![photo_1_2024-10-03_18-43-24](https://github.com/user-attachments/assets/fcb02615-4691-4922-8f83-28c971b606fe)
+
 
 
 ## Technologies Used:
