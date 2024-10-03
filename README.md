@@ -30,8 +30,9 @@ Our app provides a dedicated learning space that mimics the familiar classroom e
 
 
 ## Screenshots:
+![image](https://github.com/user-attachments/assets/a6ecef9c-c5ab-44da-b807-bfcfca78c45d)
+![image](https://github.com/user-attachments/assets/bb93f57e-5042-4bef-9787-ab8c2700d030)
 
-(Include screenshots showcasing the app's key features and user interface.)
 
 
 ## Technologies Used:
@@ -39,19 +40,6 @@ Our app provides a dedicated learning space that mimics the familiar classroom e
 * **Flutter:**  Cross-platform mobile app development framework.
 * **Dart:** Programming language used for Flutter development.
 * **(Add other technologies used, such as specific libraries, backend technologies, etc.)**
-
-
-## Contributing:
-
-(If you're accepting contributions, include guidelines for contributing to the project.)
-
-
-## License:
-
-(Specify the license under which your app is distributed.)
-
-
-## Contact:
 
 (Provide contact information for support or inquiries.)
 
